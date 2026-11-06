@@ -19,15 +19,4 @@
   <img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,docker,git,github,vscode&perline=7" alt="Herramientas y cloud" />
 </p>
 
-<h3 align="center">Actividad</h3>
-
-<p align="center">
-  <img height="165" src="https://gh-stats.com/api?username=ricco-drs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="" />
-  <img height="165" src="https://gh-stats.com/api/top-langs/?username=ricco-drs&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ricco-drs&theme=tokyonight&hide_border=true&locale=es" alt="" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B43C6,100:1D2452&height=100&section=footer" width="100%" alt="" />
