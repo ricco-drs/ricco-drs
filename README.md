@@ -35,7 +35,7 @@
 <h3 align="center">Actividad en GitHub</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ricco-drs&theme=tokyonight&hide_border=true&background=0D1117&ring=3B43C6&fire=3B82F6&currStreakLabel=3B82F6&locale=es&date_format=j%20M%5B%20Y%5D" alt="" />
+  <img src="https://streak-stats.demolab.com?user=ricco-drs&theme=tokyonight&hide_border=true&background=0D1117&ring=3B43C6&fire=3B82F6&currStreakLabel=3B82F6&locale=es&date_format=j%20M%5B%20Y%5D&v=2" alt="" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B43C6,100:1D2452&height=100&section=footer" width="100%" alt="" />
