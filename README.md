@@ -10,7 +10,7 @@
   <a href="mailto:ricco.drs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email" /></a>
 </p>
 
-<h3 align="center">Datos e IA</h3>
+<h3 align="center">Datos</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
@@ -18,6 +18,17 @@
   <img src="https://cdn.simpleicons.org/pandas/ffffff" width="40" alt="Pandas" />
   <img src="https://skillicons.dev/icons?i=anaconda" width="48" alt="Anaconda" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />
+</p>
+
+<h3 align="center">Inteligencia Artificial</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=3" height="48" alt="scikit-learn, TensorFlow, PyTorch" />
+  <img src="https://cdn.simpleicons.org/keras" width="40" alt="Keras" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab" width="40" alt="Google Colab" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kaggle" width="40" alt="Kaggle" />
 </p>
 
 <h3 align="center">Desarrollo</h3>
