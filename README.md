@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=520&lines=Datos+%C2%B7+Inteligencia+Artificial+%C2%B7+Software;Construyo+cosas+que+la+gente+usa" alt="Datos, IA y software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=520&lines=Software+%C2%B7+Datos+%C2%B7+Inteligencia+Artificial" alt="Software, Datos, Inteligencia Artificial" />
 </p>
 
 <p align="center">
@@ -22,12 +22,12 @@
 <h3 align="center">Actividad</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ricco-drs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricco-drs&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://gh-stats.com/api?username=ricco-drs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="" />
+  <img height="165" src="https://gh-stats.com/api/top-langs/?username=ricco-drs&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ricco-drs&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=ricco-drs&theme=tokyonight&hide_border=true&locale=es" alt="" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B43C6,100:1D2452&height=100&section=footer" width="100%" alt="" />
