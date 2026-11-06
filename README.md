@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" width="40" alt="Pandas" />
   <img src="https://skillicons.dev/icons?i=anaconda" width="48" alt="Anaconda" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />
 </p>
@@ -30,6 +30,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,docker,git,github,vscode&perline=7" height="48" alt="Supabase, Firebase, Cloudflare, Docker, Git, GitHub, VS Code" />
+</p>
+
+<h3 align="center">Actividad en GitHub</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ricco-drs&theme=tokyonight&hide_border=true&background=0D1117&ring=3B43C6&fire=3B82F6&currStreakLabel=3B82F6&locale=es&date_format=j%20M%5B%20Y%5D" alt="" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B43C6,100:1D2452&height=100&section=footer" width="100%" alt="" />
